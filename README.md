@@ -22,3 +22,10 @@ unexpected token "indent"
       at Object.exports.compile (…/vue-pug-indent-reproduction/node_modules/pug/lib/index.js:269:16)
       at …/vue-pug-indent-reproduction/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:2382:59
 ```
+
+## Related
+
+- https://github.com/vuejs/core/pull/7723
+- https://github.com/vuejs/core/pull/3842
+- https://github.com/vuejs/core/issues/3231
+- https://github.com/yyx990803/pug-plain-loader/issues/18
